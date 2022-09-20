@@ -1,0 +1,15 @@
+E:\домашнее задание\lesson3\new1\bin\Debug\net6.0\new1.exe
+E:\домашнее задание\lesson3\new1\bin\Debug\net6.0\new1.deps.json
+E:\домашнее задание\lesson3\new1\bin\Debug\net6.0\new1.runtimeconfig.json
+E:\домашнее задание\lesson3\new1\bin\Debug\net6.0\new1.dll
+E:\домашнее задание\lesson3\new1\bin\Debug\net6.0\new1.pdb
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.csproj.AssemblyReference.cache
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.GeneratedMSBuildEditorConfig.editorconfig
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.AssemblyInfoInputs.cache
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.AssemblyInfo.cs
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.csproj.CoreCompileInputs.cache
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.dll
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\refint\new1.dll
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.pdb
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\new1.genruntimeconfig.cache
+E:\домашнее задание\lesson3\new1\obj\Debug\net6.0\ref\new1.dll
